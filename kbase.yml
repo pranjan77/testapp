@@ -1,0 +1,7 @@
+module-name: testapp
+module-description: Dynamic service for testing tomcat app
+service-language: java
+module-version: 0.1.0
+owners: [pranjan77]
+service-config:
+  dynamic-service: true

@@ -1,8 +1,6 @@
-# docker-tomcat-tutorial
-A basic tutorial on running a web app on Tomcat using Docker
+A basic dynamic service app to test tomcat
 
 # Steps
-* Install [Docker](https://docs.docker.com/install/).
 * Clone this repository 
 * cd 'testapp'
 * docker-compose up --build
